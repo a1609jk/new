@@ -11,10 +11,10 @@ favicon: "https://github.com/a1609jk.png?size=40"
 url: https://a1609jk.github.io/new/
 
 # github profile url
-公司官网: "https://www.hblongstar.com/"
+github: "https://www.hblongstar.com/"
 
 # footer message
-footer: © 2021-2021 @湖北隆斯达
+footer: © 2021-2022 @湖北隆斯达
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -50,7 +50,7 @@ content:
           description: 乐天订单管理,需VPN
           url: http://rakuten.co.jp/
         - name: Amazon后台
-          description: 趣天订单管理,需VPN,注意紫鸟登录
+          description: 亚马逊订单管理,需VPN,注意紫鸟登录
           url: http://seller.amazon.co.jp/ 
         - name: Base后台
           description: base订单管理
