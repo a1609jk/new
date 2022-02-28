@@ -1,5 +1,5 @@
 # title of website
-title: new
+title: 湖北隆斯达
 
 # description of website
 description: a1609jk's navigation site
@@ -11,10 +11,10 @@ favicon: "https://github.com/a1609jk.png?size=40"
 url: https://a1609jk.github.io/new/
 
 # github profile url
-github: "https://github.com/a1609jk"
+公司官网: "https://www.hblongstar.com/"
 
 # footer message
-footer: © 2021-2021 @a1609jk
+footer: © 2021-2021 @湖北隆斯达
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -38,8 +38,40 @@ webstack:
 
 content:
   categories:
+     - name: 电商后台
+      sites:
+        - name: Qoo10后台
+          description: 趣天订单管理
+          url: https://qsm.qoo10.jp/GMKT.INC.GSM.Web/Login.aspx
+        - name: Yahoo后台
+          description: 雅虎订单管理,需VPN
+          url: https://business.yahoo.co.jp/
+        - name: Rakuten后台
+          description: 乐天订单管理,需VPN
+          url: http://rakuten.co.jp/
+        - name: Amazon后台
+          description: 趣天订单管理,需VPN,注意紫鸟登录
+          url: http://seller.amazon.co.jp/ 
+        - name: Base后台
+          description: base订单管理
+          url: https://admin.thebase.in/users/login
+        - name: mercari后台
+          description: 煤炉订单管理，需VPN
+          url: https://www.mercari.com/jp/
+        - name: Fril后台
+          description: フリマ订单管理，需VPN
+          url: https://fril.jp
+        - name: Osl海外仓后台
+          description: 日本现地库存管理
+          url: http://osl.kanenka.com/osl_web/
+        - name: 1688采购管理
+          description: 1688直邮采购管理
+          url: https://www.1688.com/          
     - name: 常用推荐
       sites:
+         - name: Feedly资讯
+          description: 订阅的资讯汇总，需VPN。
+          url: https://feedly.com/i/my  
         - name: Dribbble
           description: 全球UI设计师作品分享平台。
           url: https://dribbble.com/
