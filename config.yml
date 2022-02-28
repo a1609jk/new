@@ -21,7 +21,7 @@ footer: © 2021-2021 @湖北隆斯达
 template: webstack
 
 # Google analytics
-google_analytics: "G-EXE1PJ8CR2"
+google_analytics: "G-EXE1PJ8CR"
 
 webstack:
   search:
@@ -38,7 +38,7 @@ webstack:
 
 content:
   categories:
-     - name: 电商后台
+    - name: 电商后台
       sites:
         - name: Qoo10后台
           description: 趣天订单管理
@@ -69,9 +69,12 @@ content:
           url: https://www.1688.com/          
     - name: 常用推荐
       sites:
-         - name: Feedly资讯
+        - name: Feedly资讯
           description: 订阅的资讯汇总，需VPN。
           url: https://feedly.com/i/my  
+        - name: Plus跨境
+          description: 跨境工具小集。
+          url: https://plus.kanenka.com          
         - name: Dribbble
           description: 全球UI设计师作品分享平台。
           url: https://dribbble.com/
@@ -387,50 +390,6 @@ content:
         - name: Sketch
           description: The digital design toolkit
           url: https://sketchapp.com/
-    - name: 字体资源
-      sites:
-        - name: Google Font
-          description: Making the web more beautiful, fast, and open through great typography
-          url: https://fonts.google.com/
-        - name: Typekit
-          description: Quality fonts from the world’s best foundries.
-          url: https://typekit.com/
-        - name: 方正字库
-          description: 方正字库官方网站
-          url: http://www.foundertype.com/
-        - name: 字体传奇网
-          description: 中国首个字体品牌设计师交流网
-          url: http://ziticq.com/
-        - name: Fontsquirrel
-          description: FREE fonts for graphic designers
-          url: https://www.fontsquirrel.com/
-        - name: Urban Fonts
-          description: Download Free Fonts and Free Dingbats.
-          url: https://www.urbanfonts.com/
-        - name: Lost Type
-          description: Lost Type is a Collaborative Digital Type Foundry
-          url: http://www.losttype.com/
-        - name: FONTS2U
-          description: Download free fonts for Windows and Macintosh.
-          url: https://fonts2u.com/
-        - name: Fontex
-          description: Free Fonts to Download + Premium Typefaces
-          url: http://www.fontex.org/
-        - name: FontM
-          description: Free Fonts
-          url: http://fontm.com/
-        - name: My Fonts
-          description: Fonts for Print, Products & Screens
-          url: http://www.myfonts.com/
-        - name: Da Font
-          description: Archive of freely downloadable fonts.
-          url: https://www.dafont.com/
-        - name: OnlineWebFonts
-          description: WEB Free Fonts for Windows and Mac / Font free Download
-          url: https://www.onlinewebfonts.com/
-        - name: Abstract Fonts
-          description: Abstract Fonts (13,866 free fonts)
-          url: http://www.abstractfonts.com/
     - name: Mockup
       sites:
         - name: MockupZone
