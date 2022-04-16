@@ -1,20 +1,20 @@
 # title of website
-title: 湖北隆斯达
+title: 湖北隆斯达门户
 
 # description of website
-description: a1609jk's navigation site
+description: 隆斯达贸易内部门户
 
 # favicon of website
-favicon: "https://github.com/a1609jk.png?size=40"
+favicon: "https://www.asialsd.com/img/favicon.ico"
 
 # your website url
 url: https://a1609jk.github.io/new/
 
 # github profile url
-github: "https://www.hblongstar.com/"
+github: "https://www.asialsd.com/"
 
 # footer message
-footer: © 2021-2022 @湖北隆斯达
+footer: © 2011-2022 湖北隆斯达贸易有限公司 All rights reserved. <a href="http://www.miitbeian.gov.cn">鄂ICP备2022005107 号</a>
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -30,111 +30,676 @@ webstack:
     # 可选的搜索引擎
     engines:
       - google
-      - baidu
-      - weibo
-      - bing
-      - sogou
-      - zhihu
-      - so
-      - wangpan
-      - bilibili
       - github
-    
+      - weibo
+      - baidu
+      - bilibili
+      - zhihu
 
 content:
   categories:
-    - name: 电商后台
-      sites:
-        - name: Qoo10后台
-          description: 趣天订单管理
-          url: https://qsm.qoo10.jp/GMKT.INC.GSM.Web/Login.aspx
-        - name: Yahoo后台
-          description: 雅虎订单管理,需VPN
-          url: https://business.yahoo.co.jp/
-        - name: Rakuten后台
-          description: 乐天订单管理,需VPN
-          url: http://rakuten.co.jp/
-        - name: Amazon后台
-          description: 亚马逊订单管理,需VPN,注意紫鸟登录
-          url: http://seller.amazon.co.jp/ 
-        - name: Base后台
-          description: base订单管理
-          url: https://admin.thebase.in/users/login
-        - name: mercari后台
-          description: 煤炉订单管理，需VPN
-          url: https://www.mercari.com/jp/
-        - name: Fril后台
-          description: フリマ订单管理，需VPN
-          url: https://fril.jp
-        - name: Osl海外仓后台
-          description: 日本现地库存管理
-          url: http://osl.kanenka.com/osl_web/
-        - name: 1688采购管理
-          description: 1688直邮采购管理
-          url: https://www.1688.com/          
-    - name: 常用推荐
-      sites:
-        - name: Feedly资讯
-          description: 订阅的资讯汇总，需VPN。
-          url: https://feedly.com/i/my  
-        - name: Plus跨境
-          description: 跨境工具小集。
-          url: https://plus.kanenka.com          
-        - name: Dribbble
-          description: 全球UI设计师作品分享平台。
-          url: https://dribbble.com/
-        - name: Behance
-          description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
-          url: https://behance.net/
-        - name: UI中国
-          description: 图形交互与界面设计交流、作品展示、学习平台。
-          url: http://www.ui.cn/
-        - name: 站酷
-          description: 中国人气设计师互动平台
-          url: http://www.zcool.com.cn/
-        - name: Pinterest
-          description: 全球美图收藏采集站
-          url: https://www.pinterest.com/
-        - name: 花瓣
-          description: 收集灵感,保存有用的素材
-          url: http://huaban.com/
-        - name: 优设
-          description: 设计师交流学习平台
-          url: http://www.uisdc.com/
-        - name: Producthunt
-          description: 发现新鲜有趣的产品
-          url: https://www.producthunt.com/
-        - name: Youtube
-          description: 全球最大的学习分享平台
-          url: https://www.youtube.com/
-        - name: Google
-          description: 全球最大的UI学习分享平台
-          url: https://www.google.com/
-        - name: Medium
-          description: Read, write and share stories that matter
-          url: https://medium.com/
-    - name: 界面灵感
-      sites:
-        - name: 咕噜素材
-          description: 质量很高的设计素材网站（推荐）
-          url: https://www.gulusucai.com/
-        - name: 设计周刊
-          description: 最新设计资讯（每天更新）
-          url: https://www.shejizhoukan.com/
-        - name: 字体仓库
-          description: 最全的免费商用字体库
-          url: https://www.ziticangku.com/
-        - name: 电鸭社区
-          description: 国内最早的远程工作社区，也是互联网工作者们的聚集地，非常适合设计开发小伙伴关注
-          url: https://eleduck.com/
-    - name: 社区资讯
+      - name:	导航自由
+        sites:	
+        - name:  	Amazon123导航
+          description:  	一站式亚马逊资讯工具导航
+          url:  	https://www.amz123.com/
+        - name:  	广告人的导航
+          description:  	自媒体必备
+          url:  	https://www.addog.vip/
+        - name:  	新媒体导航
+          description:  	自媒体必备
+          url:  	https://www.kaolamedia.com/
+        - name:  	自媒体导航
+          description:  	自媒体必备
+          url:  	http://www.zimeiti135.com/
+        - name:  	龙轩导航
+          description:  	比较实用的导航网站
+          url:  	http://ilxdh.com/
+        - name:  	熊猫搜书导航
+          description:  	搜书导航
+          url:  	https://ebook.blinkol.com/
+        - name:  	模板导航
+          description:  	待合并导航
+          url:  	https://5nav.ml/
+        - name:  	设计师导航
+          description:  	设计相关内容汇总
+          url:  	https://webstack.cc/en/index.html#
+    - name:	跨境商城
+      sites:	
+        - name:  	亚马逊日本站
+          description:  	亚马逊日本成立于2000年11月1日，设有多个配送中心。提供日文、英文、简体中文等多种语言界面。
+          url:  	https://www.amazon.co.jp/
+        - name:  	楽天市場
+          description:  	乐天在日本不仅仅是一个电商平台，还成功地涉及了许多不同的行业，建立起完整的生态服务系统。
+          url:  	https://www.rakuten.co.jp/
+        - name:  	日本雅虎
+          description:  	日本雅虎也通过提供各种类型的服务，建立了庞大的生态系统，拥有雅虎拍卖、雅虎商城、PAYPAY商城等。
+          url:  	https://shopping.yahoo.co.jp/
+        - name:  	Qoo10(趣天）
+          description:  	由eBay运营，提供大量产品，包括移动、体育、时尚、家居、书籍和电子门票。
+          url:  	https://www.qoo10.jp/
+        - name:  	NETSEA
+          description:  	日本最大级别的B2B批发和采购平台。近5000家店铺，170万种类商品。
+          url:  	https://www.netsea.jp/
+        - name:  	雅虎拍卖
+          description:  	雅虎旗下竞价方式购物网站。
+          url:  	
+        - name:  	Creema
+          description:  	日本新兴手工艺品贸易平台，300多种类目满足了日本15万多手工业者的激情。
+          url:  	[https://www.creema.jp/
+        - name:  	AU PAYマーケット
+          description:  	又称“Wowma”，总计超过2000万种产品，拥有KDDI广泛的移动用户。
+          url:  	https://wowma.jp
+        - name:  	ポンパレモール
+          description:  	采用日本Ponta积分，由株式会社リクルート运营，积分通用让服务更加多元化。
+          url:  	https://www.ponparemall.com/
+        - name:  	ZOZOTOWN
+          description:  	日本最大的时尚购物网站，目前已有6000家以上服饰品牌入驻，隶属于雅虎旗下。
+          url:  	https://zozo.jp/
+        - name:  	Shopify
+          description:  	全球性的多渠道电子商务平台，可以帮助企业品牌建立和管理销售渠道。
+          url:  	https://www.shopify.jp/
+        - name:  	shopee
+          description:  	东南亚市场平台
+          url:  	https://seller.my.shopee.cn/account/signin?next=%2F
+        - name:  	wish
+          description:  	新兴平台
+          url:  	https://www.wish.com/
+        - name:  	日本c2j
+          description:  	日贸通旗下购物网站
+          url:  	http://www.c2j.jp/
+        - name:  	世龙批发
+          description:  	
+          url:  	https://www.4long.cn/
+        - name:  	aliexpress Japan
+          description:  	
+          url:  	https://ja.aliexpress.com/
+        - name:  	Starday
+          description:  	
+          url:  	https://www.starday.shop/
+        - name:  	Cmall
+          description:  	
+          url:  	http://www.cmall.co.jp/
+        - name:  	Gshopper
+          description:  	
+          url:  	https://www.gshopper.com/
+        - name:  	B2B2Cmall
+          description:  	
+          url:  	http://www.beical.com/
+        - name:  	通販価格比較
+          description:  	
+          url:  	https://www.become.co.jp/
+        - name:  	逸源转运商城
+          description:  	
+          url:  	http://yya.colors8.com.cn/index.php
+        - name:  	GREEN FUNDING
+          description:  	
+          url:  	https://greenfunding.jp/
+    - name:	内销商城
+      sites:	
+        - name:  	1688
+          description:  	全球企业间（B2B）电子商务的著名品牌，领先的采购批发平台。
+          url:  	https://www.1688.com/  
+        - name:  	拼多多
+          description:  	低价购物平台
+          url:  	https://pinduoduo.com/
+        - name:  	淘宝网
+          description:  	老牌电子商城，只有想不到，没有买不到。
+          url:  	https://www.taobao.com/
+        - name:  	冠通分销
+          description:  	冠通分销平台，是专注于为供应商及分销商双向赋能的跨境电商分销平台。
+          url:  	https://www.gotenchina.com/
+        - name:  	SDS定制
+          description:  	跨境电商DIY产品铺货平台
+          url:  	https://www.sdsdiy.com/
+        - name:  	美适分销
+          description:  	新型跨境电商供应链端服务。为外贸平台上的跨境卖家解决货源问题，降低跨境成本。
+          url:  	https://www.mixsss.com/
+        - name:  	U选U品
+          description:  	专业的跨境电商选品的平台,专注跨境电商,B2B电商、B2C电子商务等产品资讯分享。
+          url:  	http://uxup.cn/
+        - name:  	中国制造网
+          description:  	立足内贸领域,专注中国制造的B2B电子商务平台。
+          url:  	http://cn.made-in-china.com/
+        - name:  	义乌购
+          description:  	线上线下对应,交易有保障,以义乌市场为核心覆盖全国小商品产业优质供应商。
+          url:  	http://www.yiwugou.com/
+        - name:  	京东
+          description:  	国内领先的购物平台。
+          url:  	https://www.jd.com/
+        - name:  	LongStar分销
+          description:  	新兴分销平台。
+          url:  	https://www.asialsd.com/jp.php
+        - name:  	lete代购
+          description:  	轻松寄全球，国货买不停
+          url:  	https://www.lete.com/
+    - name:	商务后台
+      sites:	
+        - name:  	Qoo10后台
+          description:  	趣天订单管理
+          url:  	https://qsm.qoo10.jp/GMKT.INC.GSM.Web/Login.aspx
+        - name:  	Yahoo后台
+          description:  	雅虎订单管理,需VPN
+          url:  	https://business.yahoo.co.jp/
+        - name:  	Rakuten后台
+          description:  	乐天订单管理,需VPN
+          url:  	http://rakuten.co.jp/
+        - name:  	Amazon后台
+          description:  	亚马逊订单管理,需VPN,注意紫鸟登录
+          url:  	http://seller.amazon.co.jp/ 
+        - name:  	Base后台
+          description:  	base订单管理
+          url:  	https://admin.thebase.in/users/login
+        - name:  	mercari后台
+          description:  	煤炉订单管理，需VPN
+          url:  	https://www.mercari.com/jp/
+        - name:  	Fril后台
+          description:  	フリマ订单管理，需VPN
+          url:  	https://fril.jp
+        - name:  	Osl海外仓后台
+          description:  	日本现地库存管理
+          url:  	http://osl.kanenka.com/osl_web/
+        - name:  	ezOrder后台
+          description:  	日本本土分销系统
+          url:  	https://ezorder.jp/Account/Login
+        - name:  	微店后台
+          description:  	 微信直连电商平台
+          url:  	https://www.weidian.com/?source=guanwang          
+        - name:  	LongStar分销后台
+          description:  	分销后台处理
+          url:  	https://www.asialsd.com/admin.php    
+        - name:  	友商网后台
+          description:  	在线会计处理平台
+          url:  	
+    - name:	自媒体后台
+      sites:	
+        - name:  	头条号
+          description:  	今日头条，字节跳动旗下
+          url:  	https://mp.toutiao.com/profile_v4/index
+        - name:  	公众号
+          description:  	微信公众号，腾讯旗下
+          url:  	https://mp.weixin.qq.com/cgi-bin/loginpage
+        - name:  	百家号
+          description:  	提升百度排名，百度旗下
+          url:  	https://baijiahao.baidu.com/
+        - name:  	豆瓣
+          description:  	豆瓣小组
+          url:  	https://www.douban.com/
+        - name:  	知乎
+          description:  	有问题知乎一下
+          url:  	https://www.zhihu.com/creator
+        - name:  	简书
+          description:  	老牌写作平台
+          url:  	https://www.jianshu.com/
+        - name:  	小红书
+          description:  	种草平台
+          url:  	https://creator.xiaohongshu.com/login
+    - name:	常用工具
+      sites:	
+        - name:  	翻译
+          description:  	比较准确的翻译利器
+          url:  	https://www.deepl.com/translator
+        - name:  	头条指数
+          description:  	今日头条数据分析
+          url:  	https://trendinsight.oceanengine.com/index
+        - name:  	Bitly
+          description:  	免费短链工具，辅助卖家做跟踪，中国区无法使用，需要绕开长城才能使用，主要针对海外买家。
+          url:  	https://bitly.com/
+        - name:  	查询网
+          description:  	国内实用查询工具
+          url:  	https://www.ip138.com/
+        - name:  	在线工具
+          description:  	在线小工具合集，日常小工具应有尽有。
+          url:  	https://tool.lu/
+        - name:  	Verify-email邮箱验证
+          description:  	邮箱地址真假验证。
+          url:  	https://verify-email.org/
+        - name:  	有道翻译
+          description:  	有道翻译提供即时免费的全文翻译、网页翻译、文档翻译服务。
+          url:  	http://fanyi.youdao.com/
+        - name:  	集装箱参数查询
+          description:  	多种类集装箱尺寸情况详解
+          url:  	https://www.tradesns.net/tool_container.php
+        - name:  	Keepa
+          description:  	类似camelcamelcamel的功能，同时新增了更多的功能，如查看竞争对手卖家数量，选品必备工具。
+          url:  	https://keepa.com/
+        - name:  	Keywordtool.io
+          description:  	免费长尾关键词工具，可以查询到亚马逊，ebay，等关键词，但非付费用户无法查看到搜索量。对于关键词延伸有很好的帮助。
+          url:  	https://keywordtool.io/amazon
+        - name:  	Keywordshitter
+          description:  	超级好用的关键词工具，能够联想出大量的相关关键词出来
+          url:  	https://keywordshitter.com/
+        - name:  	iP地址查询
+          description:  	公网ip地址归属地手机号查询
+          url:  	https://cache.ip138.com/
+        - name:  	日本搜索词排名
+          description:  	AMZ123出品，25万词汇排名
+          url:  	https://www.amz123.com/jptopkeywords
+        - name:  	阿里云
+          description:  	阿里云服务管理
+          url:  	https://www.aliyun.com/
+        - name:  	名前
+          description:  	海外域名申请及管理
+          url:  	https://www.onamae.com/
+        - name:  	ロリポップ
+          description:  	日本云服务管理
+          url:  	https://user.lolipop.jp/
+        - name:  	出口退税率查询
+          description:  	国家税务局官方查询。
+          url:  	http://hd.chinatax.gov.cn/nszx/InitChukou.html
+        - name:  	黑猫物流查询
+          description:  	日本ヤマト運輸官网查询物流配送情况
+          url:  	https://toi.kuronekoyamato.co.jp/cgi-bin/tneko
+        - name:  	邮局物流查询
+          description:  	日本郵便包裹追踪，可查询国际包裹及当地包裹。
+          url:  	https://trackings.post.japanpost.jp/services/srv/sequenceNoSearch/input
+        - name:  	佐川物流查询
+          description:  	日本佐川運輸官网查询物流配送情况
+          url:  	https://k2k.sagawa-exp.co.jp/p/sagawa/web/okurijoinput.jsp
+        - name:  	日本税関
+          description:  	可查询関税正常及相关税率。
+          url:  	https://www.customs.go.jp/index.htm
+        - name:  	万能单位换算器
+          description:  	帮助卖家快速一键换算各个单位，方便快捷。
+          url:  	https://mjzj.com/newmjzj/tools/unitConversion
+        - name:  	汇率查询
+          description:  	可以随时了解到汇率的变动情况。
+          url:  	https://srh.bankofchina.com/search/whpj/search_cn.jsp
+        - name:  	日本假期日历
+          description:  	可查询各国假期日历，方便排期。
+          url:  	https://www.timeanddate.com/calendar/?year=2021&country=26
+        - name:  	Seeseed
+          description:  	
+          url:  	https://www.seeseed.com/
+        - name:  	PPT模板
+          description:  	
+          url:  	http://www.officeplus.cn/Template/Home.shtml
+        - name:  	设计教学
+          description:  	
+          url:  	http://www.doyoudo.com/
+        - name:  	Oeasy设计教学
+          description:  	
+          url:  	http://oeasy.org/
+        - name:  	站酷酷高手
+          description:  	
+          url:  	https://www.gogoup.com/
+        - name:  	卖家之家工具
+          description:  	
+          url:  	https://mjzj.com/newmjzj/tools
+        - name:  	跨境眼工具
+          description:  	
+          url:  	https://www.kuajingyan.com/navigation-tool/tool
+        - name:  	跨境知道工具
+          description:  	
+          url:  	https://tools.ikjzd.com/
+        - name:  	网盘搜索
+          description:  	
+          url:  	http://www.99baiduyun.com/
+        - name:  	二维码
+          description:  	
+          url:  	https://cli.im/
+        - name:  	趣味教学
+          description:  	
+          url:  	https://edui.fun/
+        - name:  	雅书书籍
+          description:  	
+          url:  	https://yabook.org/
+    - name:	社区资讯
+      sites:	
+        - name:  	微博
+          description:  	
+          url:  	https://weibo.com/
+        - name:  	即刻
+          description:  	
+          url:  	https://web.okjike.com/login
+        - name:  	抽屉
+          description:  	
+          url:  	https://dig.chouti.com/
+        - name:  	V2EX
+          description:  	
+          url:  	https://www.v2ex.com/
+        - name:  	领英
+          description:  	
+          url:  	https://www.linkedin.com/feed/
+        - name:  	推特
+          description:  	
+          url:  	https://twitter.com/
+        - name:  	FaceBook
+          description:  	
+          url:  	https://www.facebook.com/
+        - name:  	instagram
+          description:  	
+          url:  	https://www.instagram.com/
+        - name:  	环球外贸
+          description:  	
+          url:  	https://bbs.fob5.com/
+        - name:  	福步外贸
+          description:  	
+          url:  	http://bbs.fobshanghai.com/index.php
+        - name:  	东京华人网
+          description:  	
+          url:  	https://www.tokyocn.com/
+        - name:  	小春网
+          description:  	
+          url:  	https://www.incnjp.com/portal.php
+        - name:  	cnbate
+          description:  	
+          url:  	https://www.cnbeta.com/
+        - name:  	站长之家
+          description:  	
+          url:  	https://www.chinaz.com/
+        - name:  	知无不言
+          description:  	专业跨境论坛
+          url:  	https://www.wearesellers.com/
+        - name:  	创蓝论坛
+          description:  	专业跨境论坛
+          url:  	https://bbs.ichuanglan.com/
+    - name:	中文资讯
+      sites:	
+        - name:  	36氪
+          description:  	创业资讯、科技新闻
+          url:  	https://www.36kr.com/
+        - name:  	钛媒体
+          description:  	
+          url:  	https://www.tmtpost.com/
+        - name:  	虎嗅网
+          description:  	
+          url:  	https://www.huxiu.com/
+        - name:  	爱范儿
+          description:  	
+          url:  	https://www.ifanr.com/
+        - name:  	人民网
+          description:  	
+          url:  	http://www.people.com.cn/
+        - name:  	日经中文网
+          description:  	
+          url:  	http://cn.nikkei.com/
+        - name:  	日本新华侨报
+          description:  	
+          url:  	http://www.jnocnews.co.jp/
+        - name:  	铅笔道
+          description:  	
+          url:  	https://www.pencilnews.cn/
+        - name:  	全现在
+          description:  	
+          url:  	https://www.allnow.com/
+        - name:  	界面新闻
+          description:  	
+          url:  	https://www.jiemian.com/
+        - name:  	雪球
+          description:  	
+          url:  	https://xueqiu.com/
+        - name:  	天下网商
+          description:  	
+          url:  	http://www.wshang.com/
+        - name:  	世界经理人
+          description:  	
+          url:  	http://www.ceconline.com/
+        - name:  	少数派
+          description:  	
+          url:  	https://sspai.com/
+        - name:  	前瞻网
+          description:  	
+          url:  	https://www.qianzhan.com/
+        - name:  	微博报告
+          description:  	
+          url:  	https://data.weibo.com/
+        - name:  	品玩科技
+          description:  	
+          url:  	https://www.pingwest.com/
+        - name:  	威锋网
+          description:  	
+          url:  	https://www.feng.com/
+        - name:  	电子说
+          description:  	
+          url:  	http://www.elecfans.com/d/
+        - name:  	极客公园
+          description:  	
+          url:  	http://www.geekpark.net/
+        - name:  	互联网的一点事
+          description:  	
+          url:  	https://www.yixieshi.com/
+        - name:  	爱发电
+          description:  	
+          url:  	https://afdian.net/
+        - name:  	华商殿堂
+          description:  	
+          url:  	http://www.hsmrt.com/
+    - name:	日文资讯
+      sites:	
+        - name:  	36氪日文
+          description:  	
+          url:  	https://36kr.jp/
+        - name:  	福布斯日本新闻
+          description:  	
+          url:  	https://forbesjapan.com/
+        - name:  	日本财经
+          description:  	
+          url:  	https://jbpress.ismedia.jp/
+        - name:  	yahoo新闻
+          description:  	
+          url:  	https://news.yahoo.co.jp/topics/top-picks
+        - name:  	nhk
+          description:  	
+          url:  	https://www3.nhk.or.jp/news/
+        - name:  	朝日新闻
+          description:  	
+          url:  	https://www.asahi.com/
+        - name:  	读卖新闻
+          description:  	
+          url:  	https://www.yomiuri.co.jp/
+        - name:  	小売・流通業界
+          description:  	
+          url:  	https://diamond-rm.net/
+        - name:  	netshop
+          description:  	
+          url:  	https://netshop.impress.co.jp/
+        - name:  	prtimes
+          description:  	日本电商资讯汇总
+          url:  	https://prtimes.jp/
+    - name:	电商资讯
+      sites:	
+        - name:  	卖家之家
+          description:  	
+          url:  	https://mjzj.com/
+        - name:  	环球跨境通
+          description:  	
+          url:  	https://www.fob5.com/
+        - name:  	雨果网
+          description:  	
+          url:  	https://www.cifnews.com/
+        - name:  	电商报
+          description:  	
+          url:  	http://www.dsb.cn/
+        - name:  	亿邦动力
+          description:  	
+          url:  	http://www.ebrun.com/
+        - name:  	邦阅网
+          description:  	
+          url:  	https://www.52by.com/
+        - name:  	跨境知道
+          description:  	
+          url:  	https://www.ikjzd.com/
+        - name:  	白鲸出海
+          description:  	
+          url:  	https://www.baijingapp.com/
+        - name:  	快出海
+          description:  	
+          url:  	https://www.kchuhai.com/
+        - name:  	Enjoy出海
+          description:  	
+          url:  	https://enjoyglobal.net/
+        - name:  	EC通販日本
+          description:  	
+          url:  	https://ecnomikata.com/
+        - name:  	i黑马
+          description:  	
+          url:  	https://www.iheima.com/
+        - name:  	一灯博客
+          description:  	
+          url:  	https://www.1deng.me/
+        - name:  	跨境眼
+          description:  	
+          url:  	https://www.kuajingyan.com/
+        - name:  	思路网
+          description:  	
+          url:  	https://www.siilu.com/
+        - name:  	外贸SOHO联盟
+          description:  	
+          url:  	http://www.comesoho.com/
+        - name:  	全球外贸数字网
+          description:  	
+          url:  	http://www.ai-ito.com/
+        - name:  	电商观察者
+          description:  	
+          url:  	https://www.amishow.com/
+        - name:  	第一枪
+          description:  	
+          url:  	https://www.dyq.cn/
+        - name:  	跨境达人
+          description:  	
+          url:  	https://www.hcggzy.cn/
+        - name:  	速卖通
+          description:  	
+          url:  	https://sell.aliexpress.com/zh/__pc/newsellerlanding.htm
+        - name:  	窝日本
+          description:  	
+          url:  	https://wow-japan.com/
+        - name:  	跨境头条
+          description:  	
+          url:  	https://www.amz123.com/forum-1.htm
+        - name:  	淘宝大学
+          description:  	
+          url:  	https://go.smzdm.com/cfe9fe8f466914c6/ca_bb_yc_5375_81950770_11335_0_5382_0
+        - name:  	鸟哥笔记
+          description:  	
+          url:  	https://www.niaogebiji.com/
+    - name:	开发门户
+      sites:	
+        - name:  	掘金
+          description:  	
+          url:  	https://juejin.im/
+        - name:  	博客园
+          description:  	
+          url:  	https://www.cnblogs.com/
+        - name:  	开发者头条
+          description:  	
+          url:  	https://toutiao.io/
+        - name:  	极思维
+          description:  	
+          url:  	http://www.topthink.com/
+        - name:  	尚码园
+          description:  	
+          url:  	https://www.shangmayuan.com/
+        - name:  	源码码头
+          description:  	
+          url:  	https://www.icodedock.com/
+        - name:  	OSCHINA
+          description:  	
+          url:  	https://www.oschina.net/
+        - name:  	AI研习社
+          description:  	
+          url:  	https://www.yanxishe.com/
+        - name:  	IT学院
+          description:  	
+          url:  	https://www.itxueyuan.com/
+        - name:  	TechTarget中国
+          description:  	
+          url:  	https://www.techtarget.com.cn/
+        - name:  	开源众包
+          description:  	
+          url:  	https://zb.oschina.net/
+        - name:  	X技术
+          description:  	
+          url:  	http://www.xjishu.com/
+        - name:  	Coding
+          description:  	
+          url:  	https://coding.net/
+        - name:  	酷软清单
+          description:  	
+          url:  	https://www.coolist.net/
+        - name:  	PM个人博客
+          description:  	
+          url:  	http://pm.budong.me/
+        - name:  	菜鸟教程
+          description:  	
+          url:  	https://www.runoob.com/
+        - name:  	慕课网
+          description:  	
+          url:  	https://www.imooc.com/
+        - name:  	中国大学MOOC
+          description:  	
+          url:  	https://www.icourse163.org/
+        - name:  	网易公开课
+          description:  	
+          url:  	https://open.163.com/
+        - name:  	华文慕课
+          description:  	
+          url:  	http://www.chinesemooc.org/
+        - name:  	好大学MOOC
+          description:  	
+          url:  	https://www.cnmooc.org/home/index.mooc
+        - name:  	学堂在线MOOC
+          description:  	
+          url:  	https://www.xuetangx.com/
+        - name:  	超星尔雅平台
+          description:  	
+          url:  	http://erya.mooc.chaoxing.com/
+        - name:  	智慧树
+          description:  	
+          url:  	https://www.zhihuishu.com/
+        - name:  	摩课书院
+          description:  	
+          url:  	http://zjedu.moocollege.com/
+        - name:  	TED
+          description:  	
+          url:  	https://www.ted.com/
+        - name:  	腾讯课堂
+          description:  	
+          url:  	https://ke.qq.com/
+        - name:  	网易云课堂
+          description:  	
+          url:  	https://study.163.com/
+        - name:  	哔哩哔哩
+          description:  	
+          url:  	https://www.bilibili.com/
+    - name:	精品课程
+      sites:	
+        - name:  	数据结构
+          description:  	
+          url:  	https://www.icourse163.org/course/ZJU-93001
+        - name:  	实用Python
+          description:  	
+          url:  	https://www.icourse163.org/course/PKU-1460924165
+        - name:  	零基础学JAVA
+          description:  	
+          url:  	https://www.icourse163.org/course/ZJU-1001541001
+        - name:  	Photoshop处理
+          description:  	
+          url:  	https://www.icourse163.org/course/WHU-1205723805
+        - name:  	思维导图应用
+          description:  	
+          url:  	https://www.icourse163.org/course/icourse-1001967009
+        - name:  	英语语音
+          description:  	
+          url:  	https://www.icourse163.org/course/SHISU-1462080162
+        - name:  	博弈论基础
+          description:  	
+          url:  	https://www.icourse163.org/course/ZJU-20001
+        - name:  	Crash Course
+          description:  	
+          url:  	https://crashcourse.club/category/
+        - name:  	coursera
+          description:  	
+          url:  	https://go.smzdm.com/131c5b04456974f1/ca_bb_yc_163_81935840_13872_0_1641_0
+        - name:  	五百编程电子书
+          description:  	
+          url:  	https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-zh.html
+    - name: 产品运营
       sites:
         - name: 雷锋网
           description: 人工智能和智能硬件领域的互联网科技媒体
           url: https://www.leiphone.com/
-        - name: 36kr
-          description: 创业资讯、科技新闻
-          url: http://36kr.com/
         - name: 数英网
           description: 数字媒体及职业招聘网站
           url: https://www.digitaling.com/
@@ -162,9 +727,7 @@ content:
         - name: 古田路9号
           description: 国内专业品牌创意平台
           url: http://www.gtn9.com/
-        - name: 优阁网
-          description: UI设计师学习交流社区
-          url: http://www.uigreat.com/
+
     - name: 发现产品
       sites:
         - name: NEXT
@@ -194,52 +757,18 @@ content:
         - name: Android Niceties
           description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
           url: http://androidniceties.tumblr.com/
-    - name: 网页灵感
-      sites:
-        - name: Awwwards
-          description: Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
-          url: https://www.awwwards.com/
-        - name: CSS Design Awards
-          description: Website Awards & Inspiration - CSS Gallery
-          url: https://www.cssdesignawards.com/
-        - name: The FWA
-          description: FWA - showcasing innovation every day since 2000
-          url: https://thefwa.com/
-        - name: Ecommercefolio
-          description: Only the Best Ecommerce Design Inspiration
-          url: http://www.ecommercefolio.com/
-        - name: Lapa
-          description: The best landing page design inspiration from around the web.
-          url: http://www.lapa.ninja/
-        - name: Reeoo
-          description: web design inspiration and website gallery
-          url: http://reeoo.com/
-        - name: Designmunk
-          description: Best Homepage Design Inspiration
-          url: https://designmunk.com/
-        - name: Best Websites Gallery
-          description: Website Showcase Inspiration | Best Websites Gallery
-          url: https://bestwebsite.gallery/
-        - name: Pages
-          description: Curated directory of the best Pages
-          url: http://www.pages.xyz/
-        - name: SiteSee
-          description: SiteSee is a curated gallery of beautiful, modern websites collections.
-          url: https://sitesee.co/
-        - name: Site Inspire
-          description: A CSS gallery and showcase of the best web design inspiration.
-          url: https://www.siteinspire.com/
-        - name: WebInspiration
-          description: 网页设计欣赏,全球顶级网页设计
-          url: http://web.uedna.com/
-        - name: navnav
-          description: A ton of CSS, jQuery, and JavaScript responsive navigation examples, demos, and tutorials from all over the web.
-          url: http://navnav.co/
-        - name: Really Good UX
-          description: A library of screenshots and examples of really good UX. Brought to you by
-          url: https://www.reallygoodux.io/
+
     - name: 图标素材
       sites:
+        - name: Pinterest
+          description: 全球美图收藏采集站
+          url: https://www.pinterest.com/
+        - name: 花瓣
+          description: 收集灵感,保存有用的素材
+          url: http://huaban.com/
+        - name: Producthunt
+          description: 发现新鲜有趣的产品
+          url: https://www.producthunt.com/
         - name: Iconfinder
           description: 2,100,000+ free and premium vector icons.
           url: https://www.iconfinder.com
@@ -334,38 +863,7 @@ content:
         - name: freepik
           description: More than a million free vectors, PSD, photos and free icons.
           url: https://www.freepik.com/
-    - name: UI资源
-      sites:
-        - name: Freebiesbug
-          description: Hand-picked resources for web designer and developers, constantly updated.
-          url: https://freebiesbug.com/
-        - name: Freebie Supply
-          description: Free Resources For Designers
-          url: https://freebiesupply.com/
-        - name: 云瑞
-          description: 优秀设计资源的分享网站
-          url: https://www.yrucd.com/
-        - name: 稀土区
-          description: 优质设计开发资源分享
-          url: https://xituqu.com/
-        - name: ui8
-          description: UI Kits, Wireframe Kits, Templates, Icons and More
-          url: https://ui8.net/
-        - name: uplabs
-          description: Daily resources for product designers & developers
-          url: https://www.uplabs.com/
-        - name: UIkit.me
-          description: 最便捷新鲜的uikit资源下载网站
-          url: http://www.uikit.me/
-        - name: Fribbble
-          description: Free PSD files and other free design resources by Dribbblers.
-          url: http://www.fribbble.com/
-        - name: PrincipleRepo
-          description: Free, High Quality Principle Resources
-          url: http://principlerepo.com/
-        - name: Designmodo
-          description: Web Design Blog and Shop
-          url: https://designmodo.com/
+
     - name: Sketch资源
       sites:
         - name: Sketch
@@ -421,80 +919,7 @@ content:
         - name: For Graphic TM
           description: High Quality PSD Mockups for Graphic Designers.
           url: http://forgraphictm.com/
-    - name: 摄影图库
-      sites:
-        - name: Unsplash
-          description: Beautiful, free photos.
-          url: https://unsplash.com/
-        - name: visualhunt
-          description: 100% Free High Quality Photos
-          url: https://visualhunt.com/
-        - name: librestock
-          description: 65,084 high quality do-what-ever-you-want stock photos
-          url: https://librestock.com/
-        - name: pixabay
-          description: 可在任何地方使用的免费图片和视频
-          url: https://pixabay.com/
-        - name: SplitShire
-          description: Free Stock Photos and Videos for commercial use.
-          url: https://www.splitshire.com/
-        - name: StockSnap
-          description: Beautiful free stock photos
-          url: https://stocksnap.io/
-        - name: albumarium
-          description: The best place to find & share beautiful images
-          url: http://albumarium.com/
-        - name: myphotopack
-          description: A free photo pack just for you. Every month.
-          url: https://myphotopack.com/
-        - name: Notaselfie
-          description: Photos that happen along the way. You can use the images anyway you like. Have fun!
-          url: http://notaselfie.com/
-        - name: papers
-          description: Wallpapers Every Hour!Hand collected :)
-          url: http://papers.co/
-        - name: stokpic
-          description: Free Stock Photos For Commercial Use
-          url: http://stokpic.com/
-        - name: 55mm
-          description: Use our FREE photos to tell your story!
-          url: https://55mm.co/visuals
-        - name: thestocks
-          description: Use our FREE photos to tell your story!
-          url: http://thestocks.im/
-        - name: freenaturestock
-          description: Exclusive mindblowing freebies for designers and developers
-          url: http://freenaturestock.com/
-        - name: negativespace
-          description: Beautiful, High-Resolution Free Stock Photos
-          url: https://negativespace.co/
-        - name: gratisography
-          description: Free high-resolution pictures you can use on your personal and commercial projects, free of copyright restrictions.
-          url: https://gratisography.com/
-        - name: imcreator
-          description: A curated collection of free web design resources, all for commercial use.
-          url: http://imcreator.com/free
-        - name: lifeofpix
-          description: Free high resolution photography
-          url: http://www.lifeofpix.com/
-        - name: skitterphoto
-          description: Free Stock Photos for Creative Professionals
-          url: https://skitterphoto.com/
-        - name: mmtstock
-          description: Free photos for commercial use
-          url: https://mmtstock.com/
-        - name: magdeleine
-          description: HAND-PICKED FREE PHOTOS FOR YOUR INSPIRATION
-          url: https://magdeleine.co/browse/
-        - name: jeshoots
-          description: New Free Photos & Mockups in to your Inbox!
-          url: http://jeshoots.com/
-        - name: hdwallpapers
-          description: High Definition Wallpapers & Desktop Backgrounds
-          url: https://www.hdwallpapers.net
-        - name: publicdomainarchive
-          description: New 100% Free Stock Photos. Every. Single. Week.
-          url: http://publicdomainarchive.com/
+
     - name: PPT资源
       sites:
         - name: OfficePLUS
@@ -555,70 +980,8 @@ content:
         - name: figma
           description: Design, prototype, and gather feedback all in one place with Figma.
           url: https://www.figma.com/
-    - name: 交互动效
-      sites:
-        - name: Adobe After Effects CC
-          description: 电影般的视觉效果和动态图形。
-          url: https://www.adobe.com/cn/products/aftereffects/
-        - name: principle
-          description: Animate Your Ideas, Design Better Apps
-          url: http://principleformac.com/
-        - name: flinto
-          description: Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.
-          url: https://www.flinto.com/
-        - name: framer
-          description: Design everything from detailed icons to high-fidelity interactions—all in one place.
-          url: https://framer.com/
-        - name: ProtoPie
-          description: 高保真交互原型设计
-          url: http://www.protopie.cn/
-    - name: 在线配色
-      sites:
-        - name: khroma
-          description: Khroma is the fastest way to discover, search, and save color combos you'll want to use.
-          url: http://khroma.co/generator/
-        - name: uigradients
-          description: Beautiful colored gradients
-          url: https://uigradients.com
-        - name: gradients
-          description: Curated gradients for designers and developers
-          url: http://gradients.io/
-        - name: Coolest
-          description: Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff
-          url: https://webkul.github.io/coolhue/
-        - name: webgradients
-          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
-          url: https://webgradients.com/
-        - name: grabient
-          description: 2017 Grabient by unfold
-          url: https://www.grabient.com/
-        - name: thedayscolor
-          description: The daily color digest
-          url: http://www.thedayscolor.com/
-        - name: flatuicolors
-          description: Copy Paste Color Pallette from Flat UI Theme
-          url: http://flatuicolors.com/
-        - name: coolors
-          description: The super fast color schemes generator!
-          url: https://coolors.co/
-        - name: colorhunt
-          description: Beautiful Color Palettes
-          url: http://www.colorhunt.co/
-        - name: Adobe Color CC
-          description: Create color schemes with the color wheel or browse thousands of color combinations from the Color community.
-          url: https://color.adobe.com/zh/create/color-wheel
-        - name: flatuicolorpicker
-          description: Best Flat Colors For UI Design
-          url: http://www.flatuicolorpicker.com/
-        - name: trianglify
-          description: Trianglify Generator
-          url: http://qrohlf.com/trianglify-generator/
-        - name: klart
-          description: Beautiful colors and designs to your inbox every week
-          url: https://klart.co/colors/
-        - name: vanschneider
-          description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
-          url: http://www.vanschneider.com/colors
+
+
     - name: 在线工具
       sites:
         - name: tinypng
@@ -673,11 +1036,7 @@ content:
         - name: 慕课网
           description: 程序员的梦工厂（有UI课程）
           url: https://www.imooc.com/
-    - name: 设计文章
-      sites:
-        - name: Web Design Ledger
-          description: Web Design Blog
-          url: https://webdesignledger.com
+
     - name: 设计电台
       sites:
         - name: UX Coffee
@@ -689,6 +1048,7 @@ content:
         - name: 异能电台
           description: 将全宇宙设计师的故事讲给你听。
           url: https://www.yineng.fm
+
     - name: 交互设计
       sites:
         - name: Little Big Details
@@ -709,53 +1069,4 @@ content:
         - name: UX Ren
           description: 用户体验人的专业社区
           url: http://uxren.cn/
-    - name: UED团队
-      sites:
-        - name: Airbnb Design
-          description: Airbnb Design
-          url: https://airbnb.design
-        - name: Facebook Design
-          description: Facebook Design
-          url: http://facebook.design/
-        - name: Google Design
-          description: Google Design
-          url: https://design.google/
-        - name: eico design
-          description: 数字化咨询与产品专家
-          url: http://eicodesign.com/
-        - name: nice design
-          description: nicedesign奈思设计是领先的用户体验设计与互联网品牌建设公司
-          url: http://www.niceui.cn/
-        - name: 腾讯CDC
-          description: 腾讯CDC关注于互联网视觉设计、交互设计、用户研究、前端开发。
-          url: http://cdc.tencent.com/
-        - name: TGideas
-          description: TGideas隶属于腾讯公司互动娱乐业务系统的专业推广类设计团队
-          url: http://tgideas.qq.com/
-        - name: ISUX
-          description: 腾讯社交用户体验设计部
-          url: https://isux.tencent.com/
-        - name: MXD
-          description: 腾讯MIG无线互联网事业群设计团队
-          url: http://mxd.tencent.com/
-        - name: Aliued
-          description: 阿里巴巴国际UED团队
-          url: http://www.aliued.com/
-        - name: U一点
-          description: 阿里巴巴（中国站）用户体验设计部博客U一点设计 UED团队
-          url: http://www.aliued.cn/
-        - name: 网易uedc
-          description: 网易用户体验设计中心（User Experience Design Center）
-          url: http://uedc.163.com/
-        - name: 百度用户体验中心
-          description: 百度用户体验中心
-          url: http://ued.baidu.com/
-        - name: 京东设计中心
-          description: 京东设计中心
-          url: http://jdc.jd.com/
-        - name: 百度企业产品用户体验中心
-          description: 百度企业产品用户体验中心
-          url: http://eux.baidu.com/
-        - name: 携程设计委员会
-          description: 携程设计委员会-Ctrip Design Committee
-          url: http://ued.ctrip.com/
+
