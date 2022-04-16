@@ -44,30 +44,30 @@ content:
   categories:
       - name:	导航自由
         sites:	
-        - name:  	Amazon123导航
-          description:  	一站式亚马逊资讯工具导航
-          url:  	https://www.amz123.com/
-        - name:  	广告人的导航
-          description:  	自媒体必备
-          url:  	https://www.addog.vip/
-        - name:  	新媒体导航
-          description:  	自媒体必备
-          url:  	https://www.kaolamedia.com/
-        - name:  	自媒体导航
-          description:  	自媒体必备
-          url:  	http://www.zimeiti135.com/
-        - name:  	龙轩导航
-          description:  	比较实用的导航网站
-          url:  	http://ilxdh.com/
-        - name:  	熊猫搜书导航
-          description:  	搜书导航
-          url:  	https://ebook.blinkol.com/
-        - name:  	模板导航
-          description:  	待合并导航
-          url:  	https://5nav.ml/
-        - name:  	设计师导航
-          description:  	设计相关内容汇总
-          url:  	https://webstack.cc/en/index.html#
+        - name: Amazon123导航
+          description:  一站式亚马逊资讯工具导航
+          url:  https://www.amz123.com/
+        - name:  广告人的导航
+          description: 自媒体必备
+          url: https://www.addog.vip/
+        - name: 新媒体导航
+          description: 自媒体必备
+          url: https://www.kaolamedia.com/
+        - name: 自媒体导航
+          description:  自媒体必备
+          url:  http://www.zimeiti135.com/
+        - name:  龙轩导航
+          description: 比较实用的导航网站
+          url:  http://ilxdh.com/
+        - name: 熊猫搜书导航
+          description: 搜书导航
+          url: https://ebook.blinkol.com/
+        - name: 模板导航
+          description: 待合并导航
+          url: https://5nav.ml/
+        - name: 设计师导航
+          description: 设计相关内容汇总
+          url: https://webstack.cc/en/index.html#
     - name:	跨境商城
       sites:	
         - name:  	亚马逊日本站
@@ -664,41 +664,41 @@ content:
         - name:  	网易云课堂
           description:  	
           url:  	https://study.163.com/
-        - name:  	哔哩哔哩
+        - name:  哔哩哔哩
           description:  	
-          url:  	https://www.bilibili.com/
+          url:  https://www.bilibili.com/
     - name:	精品课程
       sites:	
-        - name:  	数据结构
+        - name:  数据结构
           description:  	
-          url:  	https://www.icourse163.org/course/ZJU-93001
-        - name:  	实用Python
+          url:  https://www.icourse163.org/course/ZJU-93001
+        - name:  实用Python
           description:  	
-          url:  	https://www.icourse163.org/course/PKU-1460924165
-        - name:  	零基础学JAVA
+          url:  https://www.icourse163.org/course/PKU-1460924165
+        - name:  零基础学JAVA
           description:  	
-          url:  	https://www.icourse163.org/course/ZJU-1001541001
-        - name:  	Photoshop处理
+          url:  https://www.icourse163.org/course/ZJU-1001541001
+        - name:  Photoshop处理
           description:  	
-          url:  	https://www.icourse163.org/course/WHU-1205723805
-        - name:  	思维导图应用
+          url:  https://www.icourse163.org/course/WHU-1205723805
+        - name:  思维导图应用
           description:  	
-          url:  	https://www.icourse163.org/course/icourse-1001967009
-        - name:  	英语语音
+          url:  https://www.icourse163.org/course/icourse-1001967009
+        - name:  英语语音
           description:  	
-          url:  	https://www.icourse163.org/course/SHISU-1462080162
-        - name:  	博弈论基础
+          url:  https://www.icourse163.org/course/SHISU-1462080162
+        - name:  博弈论基础
           description:  	
-          url:  	https://www.icourse163.org/course/ZJU-20001
-        - name:  	Crash Course
+          url:  https://www.icourse163.org/course/ZJU-20001
+        - name:  Crash Course
           description:  	
-          url:  	https://crashcourse.club/category/
-        - name:  	coursera
+          url:  https://crashcourse.club/category/
+        - name:  coursera
           description:  	
-          url:  	https://go.smzdm.com/131c5b04456974f1/ca_bb_yc_163_81935840_13872_0_1641_0
-        - name:  	五百编程电子书
+          url:  https://go.smzdm.com/131c5b04456974f1/ca_bb_yc_163_81935840_13872_0_1641_0
+        - name:  五百编程电子书
           description:  	
-          url:  	https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-zh.html
+          url:  https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-zh.html
     - name: 产品运营
       sites:
         - name: 雷锋网
@@ -731,7 +731,6 @@ content:
         - name: 古田路9号
           description: 国内专业品牌创意平台
           url: http://www.gtn9.com/
-
     - name: 发现产品
       sites:
         - name: NEXT
@@ -761,7 +760,6 @@ content:
         - name: Android Niceties
           description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
           url: http://androidniceties.tumblr.com/
-
     - name: 图标素材
       sites:
         - name: Pinterest
@@ -867,7 +865,6 @@ content:
         - name: freepik
           description: More than a million free vectors, PSD, photos and free icons.
           url: https://www.freepik.com/
-
     - name: Sketch资源
       sites:
         - name: Sketch
@@ -923,7 +920,6 @@ content:
         - name: For Graphic TM
           description: High Quality PSD Mockups for Graphic Designers.
           url: http://forgraphictm.com/
-
     - name: PPT资源
       sites:
         - name: OfficePLUS
@@ -984,8 +980,6 @@ content:
         - name: figma
           description: Design, prototype, and gather feedback all in one place with Figma.
           url: https://www.figma.com/
-
-
     - name: 在线工具
       sites:
         - name: tinypng
@@ -1040,7 +1034,6 @@ content:
         - name: 慕课网
           description: 程序员的梦工厂（有UI课程）
           url: https://www.imooc.com/
-
     - name: 设计电台
       sites:
         - name: UX Coffee
@@ -1052,7 +1045,6 @@ content:
         - name: 异能电台
           description: 将全宇宙设计师的故事讲给你听。
           url: https://www.yineng.fm
-
     - name: 交互设计
       sites:
         - name: Little Big Details
