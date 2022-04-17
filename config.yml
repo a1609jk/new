@@ -83,7 +83,7 @@ content:
           url: https://www.netsea.jp/
         - name: 雅虎拍卖
           description: 雅虎旗下竞价方式购物网站。
-          url: 
+          url: https://auctions.yahoo.co.jp/
         - name: Creema
           description: 日本新兴手工艺品贸易平台，300多种类目满足了日本15万多手工业者的激情。
           url: https://www.creema.jp/
@@ -108,32 +108,26 @@ content:
         - name: 日本c2j
           description: 日贸通旗下购物网站
           url: http://www.c2j.jp/
-        - name: 世龙批发
-          description: 
-          url: https://www.4long.cn/
         - name: aliexpress Japan
-          description: 
+          description: 速卖通日本站
           url: https://ja.aliexpress.com/
         - name: Starday
-          description: 
+          description: 华人建的日本商城
           url: https://www.starday.shop/
         - name: Cmall
-          description: 
+          description: 从采购到销售均可实现的日文商城
           url: http://www.cmall.co.jp/
         - name: Gshopper
-          description: 
+          description: 电子产品特惠商城
           url: https://www.gshopper.com/
         - name: B2B2Cmall
-          description: 
+          description: 在建中北海商城
           url: http://www.beical.com/
         - name: 通販価格比較
-          description: 
+          description: 价格比较网站凸显中国制优势
           url: https://www.become.co.jp/
-        - name: 逸源转运商城
-          description: 
-          url: http://yya.colors8.com.cn/index.php
         - name: GREEN FUNDING
-          description: 
+          description: 以众筹的方式研发产品
           url: https://greenfunding.jp/
     - name: 内销商城
       sites: 
@@ -173,6 +167,12 @@ content:
         - name: lete代购
           description: 轻松寄全球，国货买不停
           url: https://www.lete.com/
+        - name: 世龙批发
+          description: 批发网站
+          url: https://www.4long.cn/   
+        - name: 逸源转运商城
+          description: 应该是已失效了
+          url: http://yya.colors8.com.cn/index.php                 
     - name: 商务后台
       sites: 
         - name: Qoo10后台
@@ -210,7 +210,13 @@ content:
           url: https://www.asialsd.com/admin.php  
         - name: 友商网后台
           description: 在线会计处理平台
-          url: 
+          url: https://www.youshang.com/
+        - name: 阿里邮箱企业版
+          description: 在线会计处理平台
+          url: https://qiye.aliyun.com/alimail/auth/login
+        - name: 市场监督管理局
+          description: 湖北市场资讯
+          url: https://scjg.hubei.gov.cn/                   
     - name: 自媒体后台
       sites: 
         - name: 头条号
@@ -309,84 +315,84 @@ content:
           description: 可查询各国假期日历，方便排期。
           url: https://www.timeanddate.com/calendar/?year=2021&country=26
         - name: Seeseed
-          description: 
+          description: Seeseed
           url: https://www.seeseed.com/
         - name: PPT模板
-          description: 
+          description: PPT模板网站
           url: http://www.officeplus.cn/Template/Home.shtml
         - name: 设计教学
-          description: 
+          description: 设计教学网站
           url: http://www.doyoudo.com/
         - name: Oeasy设计教学
-          description: 
+          description: Oeasy设计教学
           url: http://oeasy.org/
         - name: 站酷酷高手
-          description: 
+          description: 网站美化
           url: https://www.gogoup.com/
         - name: 卖家之家工具
-          description: 
+          description: 跨境小工具
           url: https://mjzj.com/newmjzj/tools
         - name: 跨境眼工具
-          description: 
+          description: 跨境小工具
           url: https://www.kuajingyan.com/navigation-tool/tool
         - name: 跨境知道工具
-          description: 
+          description: 跨境小工具
           url: https://tools.ikjzd.com/
         - name: 网盘搜索
-          description: 
+          description: 百度网盘搜索
           url: http://www.99baiduyun.com/
         - name: 二维码
-          description: 
+          description: 草料二维码制作
           url: https://cli.im/
         - name: 趣味教学
-          description: 
+          description: 英文教学
           url: https://edui.fun/
         - name: 雅书书籍
-          description: 
+          description: 书籍下载
           url: https://yabook.org/
     - name: 社区资讯
       sites: 
         - name: 微博
-          description: 
+          description: 新鲜早知道
           url: https://weibo.com/
         - name: 即刻
-          description: 
+          description: 兴趣社区
           url: https://web.okjike.com/login
         - name: 抽屉
-          description: 
+          description: 抽屉新热榜
           url: https://dig.chouti.com/
         - name: V2EX
-          description: 
+          description: 程序员大本营
           url: https://www.v2ex.com/
         - name: 领英
-          description: 
+          description: 国内外是不同版本
           url: https://www.linkedin.com/feed/
         - name: 推特
-          description: 
+          description: 海外微博
           url: https://twitter.com/
         - name: FaceBook
-          description: 
+          description: 脸书
           url: https://www.facebook.com/
         - name: instagram
-          description: 
+          description: 图片分享网站
           url: https://www.instagram.com/
         - name: 环球外贸
-          description: 
+          description: 外贸论坛
           url: https://bbs.fob5.com/
         - name: 福步外贸
-          description: 
+          description: 外贸论坛
           url: http://bbs.fobshanghai.com/index.php
         - name: 东京华人网
-          description: 
+          description: 在日华人论坛
           url: https://www.tokyocn.com/
         - name: 小春网
-          description: 
+          description: 在日华人论坛
           url: https://www.incnjp.com/portal.php
         - name: cnbate
-          description: 
+          description: 国内版GitHub
           url: https://www.cnbeta.com/
         - name: 站长之家
-          description: 
+          description: 建站内容合集
           url: https://www.chinaz.com/
         - name: 知无不言
           description: 专业跨境论坛
@@ -400,99 +406,99 @@ content:
           description: 创业资讯、科技新闻
           url: https://www.36kr.com/
         - name: 钛媒体
-          description: 
+          description: 独特视角新闻
           url: https://www.tmtpost.com/
         - name: 虎嗅网
-          description: 
+          description: 科技新闻
           url: https://www.huxiu.com/
         - name: 爱范儿
-          description: 
+          description: 时尚新闻
           url: https://www.ifanr.com/
         - name: 人民网
-          description: 
+          description: 官方新闻
           url: http://www.people.com.cn/
         - name: 日经中文网
-          description: 
+          description: 日本新闻中国化
           url: http://cn.nikkei.com/
         - name: 日本新华侨报
-          description: 
+          description: 日本华人报刊
           url: http://www.jnocnews.co.jp/
         - name: 铅笔道
-          description: 
+          description: 科技新闻
           url: https://www.pencilnews.cn/
         - name: 全现在
-          description: 
+          description: 科技新闻
           url: https://www.allnow.com/
         - name: 界面新闻
-          description: 
+          description: 新闻资讯
           url: https://www.jiemian.com/
         - name: 雪球
-          description: 
+          description: 财经新闻资讯
           url: https://xueqiu.com/
         - name: 天下网商
-          description: 
+          description: 财经新闻资讯
           url: http://www.wshang.com/
         - name: 世界经理人
-          description: 
+          description: 经理人视角新闻
           url: http://www.ceconline.com/
         - name: 少数派
-          description: 
+          description: 少数派不一定少数派
           url: https://sspai.com/
         - name: 前瞻网
-          description: 
+          description: 趋势的研讨
           url: https://www.qianzhan.com/
         - name: 微博报告
-          description: 
+          description: 微博趋势分析
           url: https://data.weibo.com/
         - name: 品玩科技
-          description: 
+          description: 科技新闻
           url: https://www.pingwest.com/
         - name: 威锋网
-          description: 
+          description: 苹果相关资讯
           url: https://www.feng.com/
         - name: 电子说
-          description: 
+          description: 电子潮玩资讯
           url: http://www.elecfans.com/d/
         - name: 极客公园
-          description: 
+          description: 电子潮玩资讯
           url: http://www.geekpark.net/
         - name: 互联网的一点事
-          description: 
+          description: 互联网打工人资讯
           url: https://www.yixieshi.com/
         - name: 爱发电
-          description: 
+          description: 兴趣发电
           url: https://afdian.net/
         - name: 华商殿堂
-          description: 
+          description: 华人巨商
           url: http://www.hsmrt.com/
     - name: 日文资讯
       sites: 
         - name: 36氪日文
-          description: 
+          description: 日文版
           url: https://36kr.jp/
         - name: 福布斯日本新闻
-          description: 
+          description: 财经新闻日本版
           url: https://forbesjapan.com/
         - name: 日本财经
-          description: 
+          description: 偏财经
           url: https://jbpress.ismedia.jp/
         - name: yahoo新闻
-          description: 
+          description: 大杂烩
           url: https://news.yahoo.co.jp/topics/top-picks
         - name: nhk
-          description: 
+          description: 日本人民日报
           url: https://www3.nhk.or.jp/news/
         - name: 朝日新闻
-          description: 
+          description: 朝日新闻
           url: https://www.asahi.com/
         - name: 读卖新闻
-          description: 
+          description: 报纸销量不错
           url: https://www.yomiuri.co.jp/
         - name: 小売・流通業界
-          description: 
+          description: 业界新闻
           url: https://diamond-rm.net/
         - name: netshop
-          description: 
+          description: 日本电商资讯，需VPN
           url: https://netshop.impress.co.jp/
         - name: prtimes
           description: 日本电商资讯汇总
@@ -759,47 +765,6 @@ content:
         - name: Android Niceties
           description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
           url: http://androidniceties.tumblr.com/
-    - name: 图标素材
-      sites:
-        - name: Iconfinder
-          description: 2,100,000+ free and premium vector icons.
-          url: https://www.iconfinder.com
-        - name: iconfont
-          description: 阿里巴巴矢量图标库
-          url: http://www.iconfont.cn/
-        - name: iconmonstr
-          description: Free simple icons for your next project
-          url: https://iconmonstr.com/
-        - name: Icon Archive
-          description: Search 590,912 free icons
-          url: http://www.iconarchive.com/
-        - name: FindIcons
-          description: Search through 300,000 free icons
-          url: https://findicons.com/
-        - name: IcoMoonApp
-          description: Icon Font, SVG, PDF & PNG Generator
-          url: https://icomoon.io/app/
-        - name: easyicon
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
-          url: http://www.easyicon.net/
-        - name: flaticon
-          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
-          url: https://www.flaticon.com/
-        - name: UICloud
-          description: The largest user interface design database in the world.
-          url: http://ui-cloud.com/
-        - name: Material icons
-          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
-          url: https://material.io/icons/
-        - name: Font Awesome Icon
-          description: The complete set of 675 icons in Font Awesome
-          url: fontawesomeicon
-        - name: ion icons
-          description: The premium icon font for Ionic Framework.
-          url: http://ionicons.com/
-        - name: Simpleline Icons
-          description: Simple line Icons pack
-          url: http://simplelineicons.com/
     - name: LOGO设计
       sites:
         - name: Iconsfeed
@@ -814,47 +779,6 @@ content:
         - name: Instant Logo Search
           description: Search & download thousands of logos instantly
           url: http://instantlogosearch.com/
-    - name: 平面素材
-      sites:
-        - name: wallhalla
-          description: Find awesome high quality wallpapers for desktop and mobile in one place.
-          url: https://wallhalla.com/
-        - name: 365PSD
-          description: Free PSD & Graphics, Illustrations
-          url: https://365psd.com/
-        - name: Medialoot
-          description: Free & Premium Design Resources — Medialoot
-          url: https://medialoot.com/
-        - name: 千图网
-          description: 专注免费设计素材下载的网站
-          url: http://www.58pic.com/
-        - name: 千库网
-          description: 免费png图片背景素材下载
-          url: http://588ku.com/
-        - name: 我图网
-          description: 我图网,提供图片素材及模板下载,专注正版设计作品交易
-          url: http://www.ooopic.com/
-        - name: 90设计
-          description: 电商设计（淘宝美工）千图免费淘宝素材库
-          url: http://90sheji.com/
-        - name: 昵图网
-          description: 原创素材共享平台
-          url: http://www.nipic.com/
-        - name: 懒人图库
-          description: 懒人图库专注于提供网页素材下载
-          url: http://www.lanrentuku.com/
-        - name: 素材搜索
-          description: 设计素材搜索聚合
-          url: http://so.ui001.com/
-        - name: PS饭团网
-          description: 不一样的设计素材库！让自己的设计与众不同！
-          url: http://psefan.com/
-        - name: 素材中国
-          description: 免费素材共享平台
-          url: http://www.sccnn.com/
-        - name: freepik
-          description: More than a million free vectors, PSD, photos and free icons.
-          url: https://www.freepik.com/
     - name: Sketch资源
       sites:
         - name: Sketch
@@ -930,51 +854,11 @@ content:
         - name: 5百丁
           description: 中国领先的PPT模板共享平台
           url: http://ppt.500d.me/
-    - name: 图形创意
+    - name: UED团队
       sites:
-        - name: photoshop
-          description: Photoshop不需要解释
-          url: https://www.adobe.com/cn/products/photoshop.html
-        - name: Affinity Designer
-          description: 专业创意软件
-          url: https://affinity.serif.com/
-        - name: Illustrator
-          description: 矢量图形和插图。
-          url: https://www.adobe.com/cn/products/illustrator/
-        - name: indesign
-          description: 页面设计、布局和出版。
-          url: http://www.adobe.com/cn/products/indesign.html
-        - name: cinema-4d
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-        - name: 3ds-max
-          description: 3D modeling, animation, and rendering software
-          url: https://www.autodesk.com/products/3ds-max/overview
-        - name: Blender
-          description: Blender is the free and open source 3D creation suite.
-          url: https://www.blender.org/
-    - name: 交互设计
-      sites:
-        - name: Little Big Details
-          description: Little Big Details is a curated collection of the finer details of design, updated every day.
-          url: http://littlebigdetails.com/
-        - name: Smashing Magazine
-          description: Below you’ll find the best tips to take not only your UX design process but also the experiences you craft to the next level.
-          url: https://www.smashingmagazine.com/category/user-experience
-        - name: nngroup
-          description: Evidence-Based User Experience Research, Training, and Consulting
-          url: https://www.nngroup.com/articles/
-        - name: Boxes and Arrows
-          description: Boxes and Arrows is devoted to the practice, innovation, and discussion of design; including graphic design, interaction design, information architecture and the design of business.
-          url: http://boxesandarrows.com/
-        - name: UX Design Weekly
-          description: get a hand picked list of the best user experience design links every week.
-          url: http://uxdesignweekly.com/
         - name: UX Ren
           description: 用户体验人的专业社区
           url: http://uxren.cn/
-    - name: UED团队
-      sites:
         - name: Airbnb Design
           description: Airbnb Design
           url: https://airbnb.design
