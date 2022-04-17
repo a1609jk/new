@@ -663,38 +663,38 @@ content:
         - name: 哔哩哔哩
           description: 
           url: https://www.bilibili.com/
-      - name: 精品课程
-        sites: 
-          - name: 数据结构
-           description: 
-           url: https://www.icourse163.org/course/ZJU-93001
-          - name: 实用Python
-           description: 
-            url: https://www.icourse163.org/course/PKU-1460924165
-          - name: 零基础学JAVA
-           description: 
-            url: https://www.icourse163.org/course/ZJU-1001541001
-          - name: Photoshop处理
-            description: 
-            url: https://www.icourse163.org/course/WHU-1205723805
-          - name: 思维导图应用
-            description: 
-            url: https://www.icourse163.org/course/icourse-1001967009
-          - name: 英语语音
-            description: 
-            url: https://www.icourse163.org/course/SHISU-1462080162
-          - name: 博弈论基础
-           description: 
-            url: https://www.icourse163.org/course/ZJU-20001
-          - name: Crash Course
-            description: 
-            url: https://crashcourse.club/category/
-          - name: coursera
-            description: 
-            url: https://go.smzdm.com/131c5b04456974f1/ca_bb_yc_163_81935840_13872_0_1641_0
-          - name: 五百编程电子书
-            description: 
-            url: https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-zh.html
+    - name: 精品课程
+      sites: 
+        - name: 数据结构
+         description: 
+         url: https://www.icourse163.org/course/ZJU-93001
+        - name: 实用Python
+         description: 
+          url: https://www.icourse163.org/course/PKU-1460924165
+        - name: 零基础学JAVA
+         description: 
+          url: https://www.icourse163.org/course/ZJU-1001541001
+        - name: Photoshop处理
+          description: 
+          url: https://www.icourse163.org/course/WHU-1205723805
+        - name: 思维导图应用
+          description: 
+          url: https://www.icourse163.org/course/icourse-1001967009
+        - name: 英语语音
+          description: 
+          url: https://www.icourse163.org/course/SHISU-1462080162
+        - name: 博弈论基础
+         description: 
+          url: https://www.icourse163.org/course/ZJU-20001
+        - name: Crash Course
+          description: 
+          url: https://crashcourse.club/category/
+        - name: coursera
+          description: 
+          url: https://go.smzdm.com/131c5b04456974f1/ca_bb_yc_163_81935840_13872_0_1641_0
+        - name: 五百编程电子书
+          description: 
+          url: https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-zh.html
     - name: 产品运营
       sites:
         - name: 雷锋网
