@@ -666,13 +666,13 @@ content:
     - name: 精品课程
       sites: 
         - name: 数据结构
-         description: 
-         url: https://www.icourse163.org/course/ZJU-93001
+          description: 
+          url: https://www.icourse163.org/course/ZJU-93001
         - name: 实用Python
-         description: 
+          description: 
           url: https://www.icourse163.org/course/PKU-1460924165
         - name: 零基础学JAVA
-         description: 
+          description: 
           url: https://www.icourse163.org/course/ZJU-1001541001
         - name: Photoshop处理
           description: 
@@ -684,7 +684,7 @@ content:
           description: 
           url: https://www.icourse163.org/course/SHISU-1462080162
         - name: 博弈论基础
-         description: 
+          description: 
           url: https://www.icourse163.org/course/ZJU-20001
         - name: Crash Course
           description: 
