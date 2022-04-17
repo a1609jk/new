@@ -8,7 +8,7 @@ description: 隆斯达贸易内部门户
 favicon: "https://www.asialsd.com/img/favicon.ico"
 
 # your website url
-url: https://a1609jk.github.io/new/
+url: https://www.asialsd.com/navi.html
 
 # github profile url
 github: "https://www.asialsd.com/"
@@ -30,9 +30,12 @@ webstack:
     # 可选的搜索引擎
     engines:
       - google
+      - bing
+      - baidu
+      - sougou
       - github
       - weibo
-      - baidu
+      - so
       - bilibili
       - zhihu
 
@@ -208,6 +211,9 @@ content:
         - name: LongStar分销后台
           description: 分销后台处理
           url: https://www.asialsd.com/admin.php  
+        - name: 速卖通后台
+          description: 
+          url: https://sell.aliexpress.com/zh/__pc/newsellerlanding.htm          
         - name: 友商网后台
           description: 在线会计处理平台
           url: https://www.youshang.com/
@@ -565,9 +571,6 @@ content:
         - name: 跨境达人
           description: 
           url: https://www.hcggzy.cn/
-        - name: 速卖通
-          description: 
-          url: https://sell.aliexpress.com/zh/__pc/newsellerlanding.htm
         - name: 窝日本
           description: 
           url: https://wow-japan.com/
@@ -666,9 +669,6 @@ content:
         - name: 网易云课堂
           description: 
           url: https://study.163.com/
-        - name: 哔哩哔哩
-          description: 
-          url: https://www.bilibili.com/
     - name: 精品课程
       sites: 
         - name: 数据结构
@@ -701,6 +701,9 @@ content:
         - name: 五百编程电子书
           description: 
           url: https://ebookfoundation.github.io/free-programming-books/books/free-programming-books-zh.html
+        - name: 哔哩哔哩
+          description: 
+          url: https://www.bilibili.com/          
     - name: 产品运营
       sites:
         - name: 雷锋网
@@ -779,61 +782,18 @@ content:
         - name: Instant Logo Search
           description: Search & download thousands of logos instantly
           url: http://instantlogosearch.com/
-    - name: Sketch资源
-      sites:
-        - name: Sketch
-          description: The digital design toolkit
-          url: https://sketchapp.com/
-        - name: Sketch Measure
-          description: Friendly user interface offers you a more intuitive way of making marks.
-          url: http://utom.design/measure/
         - name: Sketch App Sources
           description: Free design resources and plugins - Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch
           url: https://www.sketchappsources.com/
         - name: Sketch.im
           description: Sketch 相关资源汇聚
           url: http://www.sketch.im/
-        - name: Sketch Hunt
-          description: Sketch Hunt is an independent blog sharing gems in learning, plugins & design tools for fans of Sketch app.
-          url: http://sketchhunt.com/
         - name: Sketch中文网
           description: 分享最新的Sketch中文手册
           url: http://www.sketchcn.com/
         - name: Awesome Sketch Plugins
           description: A collection of really useful Sketch plugins.
           url: https://awesome-sket.ch/
-        - name: Sketchcasts
-          description: Learn Sketch Train your design skills with a weekly video tutorial
-          url: https://www.sketchcasts.net/
-        - name: Sketch
-          description: The digital design toolkit
-          url: https://sketchapp.com/
-    - name: Mockup
-      sites:
-        - name: MockupZone
-          description: Mockup Zone is an online store where you can find free and premium PSD mockup files to show your designs in a professional way.
-          url: https://mockup.zone/
-        - name: Dunnnk
-          description: Generate Product Mockups For Free
-          url: http://dunnnk.com/
-        - name: Graphberry
-          description: Free design resources, Mockups, PSD web templates, Icons
-          url: http://www.graphberry.com/
-        - name: Threed
-          description: Generate 3D Mockups right in your Browser
-          url: http://threed.io/
-        - name: Mockup World
-          description: The best free Mockups from the Web
-          url: https://free.lstore.graphics/
-        - name: Lstore
-          description: Exclusive mindblowing freebies for designers and developers
-          url: https://free.lstore.graphics/
-        - name: pixeden
-          description: free web resources and graphic design templates.
-          url: https://www.pixeden.com/
-        - name: For Graphic TM
-          description: High Quality PSD Mockups for Graphic Designers.
-          url: http://forgraphictm.com/
     - name: PPT资源
       sites:
         - name: OfficePLUS
@@ -889,9 +849,6 @@ content:
         - name: Aliued
           description: 阿里巴巴国际UED团队
           url: http://www.aliued.com/
-        - name: U一点
-          description: 阿里巴巴（中国站）用户体验设计部博客U一点设计 UED团队
-          url: http://www.aliued.cn/
         - name: 网易uedc
           description: 网易用户体验设计中心（User Experience Design Center）
           url: http://uedc.163.com/
