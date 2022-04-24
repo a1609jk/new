@@ -61,12 +61,24 @@ content:
         - name: 熊猫搜书导航
           description: 搜书导航
           url: https://ebook.blinkol.com/
-        - name: 模板导航
-          description: 待合并导航
-          url: https://5nav.ml/
+        - name: 书享家导航
+          description: 分享读书之美
+          url: http://shuxiangjia.cn/
         - name: 设计师导航
           description: 设计相关内容汇总
           url: https://webstack.cc/en/index.html#
+         - name: 微信导航
+          description: 免费发布公众号、微信群、小程序
+          url: http://www.010810.com/
+         - name: 自由导航
+          description: github导航页
+          url: https://a1609jk.github.io/navi/
+          - name: 一为导航
+          description: 绚丽的综合导航
+          url: https://nav.iowen.cn/
+          - name: 亚马逊导航
+          description: 专注亚马逊
+          url: http://topamazon.org/         
     - name: 跨境商城
       sites: 
         - name: 亚马逊日本站
@@ -132,6 +144,9 @@ content:
         - name: GREEN FUNDING
           description: 以众筹的方式研发产品
           url: https://greenfunding.jp/
+        - name: LONG-STAR
+          description: 在日商品的分销商城
+          url: https://asialsd.com/jp/
     - name: 内销商城
       sites: 
         - name: 1688
@@ -210,7 +225,7 @@ content:
           url: https://www.weidian.com/?source=guanwang     
         - name: LongStar分销后台
           description: 分销后台处理
-          url: https://www.asialsd.com/admin.php  
+          url: https://www.asialsd.com/jp/ec.php  
         - name: 速卖通后台
           description: 
           url: https://sell.aliexpress.com/zh/__pc/newsellerlanding.htm          
@@ -356,6 +371,15 @@ content:
         - name: 雅书书籍
           description: 书籍下载
           url: https://yabook.org/
+        - name: GitHub
+          description: 程序员交流中心
+          url: https://github.com/
+         - name: dynalist
+          description: 大纲式计划内容
+          url: https://dynalist.io/
+          - name: notion
+          description: 知识库
+          url: https://www.notion.so/zh-cn
     - name: 社区资讯
       sites: 
         - name: 微博
