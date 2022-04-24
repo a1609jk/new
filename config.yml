@@ -35,7 +35,7 @@ webstack:
       - sougou
       - github
       - weibo
-      - yahoo
+      - so
       - bilibili
       - zhihu
 
@@ -147,6 +147,9 @@ content:
         - name: LONG-STAR
           description: 在日商品的分销商城
           url: https://asialsd.com/jp/
+        - name: 飞鱼网
+          description: 中日通选品商城
+          url: https://flyfish.jp/
     - name: 内销商城
       sites: 
         - name: 1688
@@ -158,6 +161,9 @@ content:
         - name: 淘宝网
           description: 老牌电子商城，只有想不到，没有买不到。
           url: https://www.taobao.com/
+        - name: 京东
+          description: 国内领先的购物平台。
+          url: https://www.jd.com/                        
         - name: 冠通分销
           description: 冠通分销平台，是专注于为供应商及分销商双向赋能的跨境电商分销平台。
           url: https://www.gotenchina.com/
@@ -176,12 +182,6 @@ content:
         - name: 义乌购
           description: 线上线下对应,交易有保障,以义乌市场为核心覆盖全国小商品产业优质供应商。
           url: http://www.yiwugou.com/
-        - name: 京东
-          description: 国内领先的购物平台。
-          url: https://www.jd.com/
-        - name: LongStar分销
-          description: 新兴分销平台。
-          url: https://www.asialsd.com/jp.php
         - name: lete代购
           description: 轻松寄全球，国货买不停
           url: https://www.lete.com/
