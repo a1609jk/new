@@ -67,16 +67,16 @@ content:
         - name: 设计师导航
           description: 设计相关内容汇总
           url: https://webstack.cc/cn/index.html
-         - name: 微信导航
+        - name: 微信导航
           description: 免费发布公众号、微信群、小程序
           url: http://www.010810.com/
-         - name: 搜索导航
+        - name: 搜索导航
           description: 各种搜索引擎导航
           url: http://sousuo.org.cn/
-          - name: 一为导航
+        - name: 一为导航
           description: 绚丽的综合导航
           url: https://nav.iowen.cn/
-          - name: 亚马逊导航
+        - name: 亚马逊导航
           description: 专注亚马逊
           url: http://topamazon.org/         
     - name: 跨境商城
@@ -374,10 +374,10 @@ content:
         - name: GitHub
           description: 程序员交流中心
           url: https://github.com/
-         - name: dynalist
+        - name: dynalist
           description: 大纲式计划内容
           url: https://dynalist.io/
-         - name: notion
+        - name: notion
           description: 知识库
           url: https://www.notion.so/zh-cn
     - name: 社区资讯
