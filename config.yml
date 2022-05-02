@@ -261,6 +261,9 @@ content:
         - name: 小红书
           description: 种草平台
           url: https://creator.xiaohongshu.com/login
+        - name: 易次元
+          description: 网易互动阅读平台
+          url: https://avg.163.com/home
     - name: 常用工具
       sites: 
         - name: 翻译
