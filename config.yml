@@ -380,6 +380,9 @@ content:
         - name: notion
           description: 知识库
           url: https://www.notion.so/zh-cn
+        - name: vipc6
+          description: 提供各种付费：培训视频、收费教程、破解软件等优质资源
+          url: https://www.vipc6.com/        
     - name: 社区资讯
       sites: 
         - name: 微博
