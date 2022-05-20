@@ -227,8 +227,11 @@ content:
           description: 分销后台处理
           url: https://www.asialsd.com/jp/ec.php  
         - name: 速卖通后台
-          description: 
-          url: https://sell.aliexpress.com/zh/__pc/newsellerlanding.htm          
+          description: 阿里旗下海外战略版图
+          url: https://sell.aliexpress.com/zh/__pc/newsellerlanding.htm
+        - name: 微信小商店后台
+          description: 微信自营小程序商店
+          url: https://mp.weixin.qq.com/          
         - name: 友商网后台
           description: 在线会计处理平台
           url: https://www.youshang.com/
