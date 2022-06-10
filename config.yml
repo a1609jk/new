@@ -226,7 +226,7 @@ content:
         - name: LongStar分销后台
           description: 分销后台处理
           url: https://www.asialsd.com/jp/ec.php
-         - name: 拼多多后台
+        - name: 拼多多后台
           description: 越拼越实惠
           url: https://mms.pinduoduo.com/mallcenter/info/entry/auditResult
         - name: 速卖通后台
