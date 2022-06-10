@@ -225,7 +225,10 @@ content:
           url: https://www.weidian.com/?source=guanwang     
         - name: LongStar分销后台
           description: 分销后台处理
-          url: https://www.asialsd.com/jp/ec.php  
+          url: https://www.asialsd.com/jp/ec.php
+         - name: 拼多多后台
+          description: 越拼越实惠
+          url: https://mms.pinduoduo.com/mallcenter/info/entry/auditResult
         - name: 速卖通后台
           description: 阿里旗下海外战略版图
           url: https://sell.aliexpress.com/zh/__pc/newsellerlanding.htm
