@@ -14,7 +14,7 @@ url: https://www.asialsd.com/navi.html
 github: "https://www.asialsd.com/"
 
 # footer message
-footer: © 2011-2022 湖北隆斯达贸易有限公司 All rights reserved. <a href="http://www.miitbeian.gov.cn">鄂ICP备2022005107 号</a>
+footer: © 2021-2022 湖北隆斯达贸易有限公司 All rights reserved. <a href="http://www.miitbeian.gov.cn">鄂ICP备2022005107 号</a>
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -35,7 +35,7 @@ webstack:
       - sougou
       - github
       - weibo
-      - so
+      - yahoo
       - bilibili
       - zhihu
 
@@ -95,24 +95,27 @@ content:
           url: https://www.qoo10.jp/
         - name: NETSEA
           description: 日本最大级别的B2B批发和采购平台。近5000家店铺，170万种类商品。
-          url: https://www.netsea.jp/
+          url: https://www.netsea.jp/         
+        - name: superdelivery
+          description: 日本批发平台
+          url: https://www.superdelivery.com/          
+        - name: Creema
+          description: 日本新兴手工艺品贸易平台，300多种类目满足了日本15万多手工业者的激情。          
+          url: https://www.creema.jp/
         - name: 雅虎拍卖
           description: 雅虎旗下竞价方式购物网站。
           url: https://auctions.yahoo.co.jp/
-        - name: Creema
-          description: 日本新兴手工艺品贸易平台，300多种类目满足了日本15万多手工业者的激情。
-          url: https://www.creema.jp/
         - name: AU PAYマーケット
           description: 又称“Wowma”，总计超过2000万种产品，拥有KDDI广泛的移动用户。
           url: https://wowma.jp
         - name: ポンパレモール
-          description: 采用日本Ponta积分，由株式会社リクルート运营，积分通用让服务更加多元化。
+          description: 采用日本Ponta积分，由株式会社リクルート运营，积分通用让服务更加多元化
           url: https://www.ponparemall.com/
-        - name: ZOZOTOWN
-          description: 日本最大的时尚购物网站，目前已有6000家以上服饰品牌入驻，隶属于雅虎旗下。
-          url: https://zozo.jp/
+        - name: 価格.com
+          description: 日本本土比价网站
+          url: https://kakaku.com/
         - name: Shopify
-          description: 全球性的多渠道电子商务平台，可以帮助企业品牌建立和管理销售渠道。
+          description: 全球性的多渠道电子商务平台，可以帮助企业品牌建立和管理销售渠道
           url: https://www.shopify.jp/
         - name: shopee
           description: 东南亚市场平台
@@ -128,7 +131,7 @@ content:
           url: https://ja.aliexpress.com/
         - name: Starday
           description: 华人建的日本商城
-          url: https://www.starday.shop/
+          url: https://www.starday.jp/
         - name: Cmall
           description: 从采购到销售均可实现的日文商城
           url: http://www.cmall.co.jp/
@@ -270,59 +273,8 @@ content:
         - name: 易次元
           description: 网易互动阅读平台
           url: https://avg.163.com/home
-    - name: 常用工具
-      sites: 
-        - name: 翻译
-          description: 比较准确的翻译利器
-          url: https://www.deepl.com/translator
-        - name: 头条指数
-          description: 今日头条数据分析
-          url: https://trendinsight.oceanengine.com/index
-        - name: Bitly
-          description: 免费短链工具，辅助卖家做跟踪，中国区无法使用，需要绕开长城才能使用，主要针对海外买家。
-          url: https://bitly.com/
-        - name: 查询网
-          description: 国内实用查询工具
-          url: https://www.ip138.com/
-        - name: 在线工具
-          description: 在线小工具合集，日常小工具应有尽有。
-          url: https://tool.lu/
-        - name: Verify-email邮箱验证
-          description: 邮箱地址真假验证。
-          url: https://verify-email.org/
-        - name: 有道翻译
-          description: 有道翻译提供即时免费的全文翻译、网页翻译、文档翻译服务。
-          url: http://fanyi.youdao.com/
-        - name: 集装箱参数查询
-          description: 多种类集装箱尺寸情况详解
-          url: https://www.tradesns.net/tool_container.php
-        - name: Keepa
-          description: 类似camelcamelcamel的功能，同时新增了更多的功能，如查看竞争对手卖家数量，选品必备工具。
-          url: https://keepa.com/
-        - name: Keywordtool.io
-          description: 免费长尾关键词工具，可以查询到亚马逊，ebay，等关键词，但非付费用户无法查看到搜索量。对于关键词延伸有很好的帮助。
-          url: https://keywordtool.io/amazon
-        - name: Keywordshitter
-          description: 超级好用的关键词工具，能够联想出大量的相关关键词出来
-          url: https://keywordshitter.com/
-        - name: iP地址查询
-          description: 公网ip地址归属地手机号查询
-          url: https://cache.ip138.com/
-        - name: 日本搜索词排名
-          description: AMZ123出品，25万词汇排名
-          url: https://www.amz123.com/jptopkeywords
-        - name: 阿里云
-          description: 阿里云服务管理
-          url: https://www.aliyun.com/
-        - name: 名前
-          description: 海外域名申请及管理
-          url: https://www.onamae.com/
-        - name: ロリポップ
-          description: 日本云服务管理
-          url: https://user.lolipop.jp/
-        - name: 出口退税率查询
-          description: 国家税务局官方查询。
-          url: http://hd.chinatax.gov.cn/nszx/InitChukou.html
+    - name: 跨境工具
+      sites:           
         - name: 黑猫物流查询
           description: 日本ヤマト運輸官网查询物流配送情况
           url: https://toi.kuronekoyamato.co.jp/cgi-bin/tneko
@@ -332,9 +284,83 @@ content:
         - name: 佐川物流查询
           description: 日本佐川運輸官网查询物流配送情况
           url: https://k2k.sagawa-exp.co.jp/p/sagawa/web/okurijoinput.jsp
+        - name: エコ配查询
+          description: エコ配官网查询物流配送情况
+          url: https://www.ecohai.co.jp/cargo_tracking
+        - name: 快递100查询
+          description: 国内物流配送情况查询
+          url: https://www.kuaidi100.com/      
+        - name: 出口退税率查询
+          description: 国家税务局官方查询。
+          url: http://hd.chinatax.gov.cn/nszx/InitChukou.html
         - name: 日本税関
           description: 可查询関税正常及相关税率。
-          url: https://www.customs.go.jp/index.htm
+          url: https://www.customs.go.jp/index.htm 
+        - name: 集装箱参数查询
+          description: 多种类集装箱尺寸情况详解
+          url: https://www.tradesns.net/tool_container.php          
+        - name: 谷歌分析
+          description: 谷歌系大脑
+          url: https://accounts.google.com/signin/v2/identifier?service=analytics&passive=1209600&continue=https%3A%2F%2Fanalytics.google.com%2Fanalytics%2Fweb%2Fprovision%2F%3Fauthuser%3D0%23%2Fhome%2Fa141723053w202834980p196565795%2F&followup=https%3A%2F%2Fanalytics.google.com%2Fanalytics%2Fweb%2Fprovision%2F%3Fauthuser%3D0&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+        - name: Bitly
+          description: 免费短链工具，辅助卖家做跟踪，中国区无法使用，需要绕开长城才能使用，主要针对海外买家。
+          url: https://bitly.com/
+        - name: Verify-email邮箱验证
+          description: 邮箱地址真假验证。
+          url: https://verify-email.org/
+        - name: Keepa
+          description: 类似camelcamelcamel的功能，同时新增了更多的功能，如查看竞争对手卖家数量，选品必备工具。
+          url: https://keepa.com/
+        - name: Keywordtool.io
+          description: 免费长尾关键词工具，可以查询到亚马逊，ebay，等关键词，但非付费用户无法查看到搜索量。对于关键词延伸有很好的帮助。
+          url: https://keywordtool.io/amazon
+        - name: Keywordshitter
+          description: 超级好用的关键词工具，能够联想出大量的相关关键词出来
+          url: https://keywordshitter.com/
+        - name: 日本搜索词排名
+          description: AMZ123出品，25万词汇排名
+          url: https://www.amz123.com/jptopkeywords
+        - name: 名前
+          description: 海外域名申请及管理
+          url: https://www.onamae.com/
+        - name: ロリポップ
+          description: 日本云服务管理
+          url: https://user.lolipop.jp/
+        - name: 日本假期日历
+          description: 可查询各国假期日历，方便排期。
+          url: https://www.timeanddate.com/calendar/?year=2021&country=26          
+        - name: 卖家之家工具
+          description: 跨境小工具
+          url: https://mjzj.com/newmjzj/tools
+        - name: 跨境眼工具
+          description: 跨境小工具
+          url: https://www.kuajingyan.com/navigation-tool/tool
+        - name: 跨境知道工具
+          description: 跨境小工具
+          url: https://tools.ikjzd.com/          
+    - name: 其他工具
+      sites: 
+        - name: 翻译
+          description: 比较准确的翻译利器
+          url: https://www.deepl.com/translator
+        - name: 头条指数
+          description: 今日头条数据分析
+          url: https://trendinsight.oceanengine.com/index
+        - name: 查询网
+          description: 国内实用查询工具
+          url: https://www.ip138.com/
+        - name: 在线工具
+          description: 在线小工具合集，日常小工具应有尽有。
+          url: https://tool.lu/
+        - name: 有道翻译
+          description: 有道翻译提供即时免费的全文翻译、网页翻译、文档翻译服务。
+          url: http://fanyi.youdao.com/
+        - name: iP地址查询
+          description: 公网ip地址归属地手机号查询
+          url: https://cache.ip138.com/
+        - name: 阿里云
+          description: 阿里云服务管理
+          url: https://www.aliyun.com/
         - name: 万能单位换算器
           description: 帮助卖家快速一键换算各个单位，方便快捷。
           url: https://mjzj.com/newmjzj/tools/unitConversion
@@ -359,15 +385,6 @@ content:
         - name: 站酷酷高手
           description: 网站美化
           url: https://www.gogoup.com/
-        - name: 卖家之家工具
-          description: 跨境小工具
-          url: https://mjzj.com/newmjzj/tools
-        - name: 跨境眼工具
-          description: 跨境小工具
-          url: https://www.kuajingyan.com/navigation-tool/tool
-        - name: 跨境知道工具
-          description: 跨境小工具
-          url: https://tools.ikjzd.com/
         - name: 网盘搜索
           description: 百度网盘搜索
           url: http://www.99baiduyun.com/
@@ -616,9 +633,6 @@ content:
         - name: 淘宝大学
           description: 
           url: https://go.smzdm.com/cfe9fe8f466914c6/ca_bb_yc_5375_81950770_11335_0_5382_0
-        - name: 鸟哥笔记
-          description: 
-          url: https://www.niaogebiji.com/
     - name: 开发门户
       sites: 
         - name: 掘金
@@ -804,6 +818,9 @@ content:
         - name: Android Niceties
           description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
           url: http://androidniceties.tumblr.com/
+        - name: iconarchive
+          description: icon链接超级好用
+          url: https://iconarchive.com/
     - name: LOGO设计
       sites:
         - name: Iconsfeed
