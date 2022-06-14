@@ -337,7 +337,10 @@ content:
           url: https://www.kuajingyan.com/navigation-tool/tool
         - name: 跨境知道工具
           description: 跨境小工具
-          url: https://tools.ikjzd.com/          
+          url: https://tools.ikjzd.com/  
+        - name: 谷歌分析
+          description: 使用google账号
+          url: https://analytics.google.com/analytics/academy/course/6
     - name: 其他工具
       sites: 
         - name: 翻译
@@ -367,9 +370,6 @@ content:
         - name: 汇率查询
           description: 可以随时了解到汇率的变动情况。
           url: https://srh.bankofchina.com/search/whpj/search_cn.jsp
-        - name: 日本假期日历
-          description: 可查询各国假期日历，方便排期。
-          url: https://www.timeanddate.com/calendar/?year=2021&country=26
         - name: Seeseed
           description: Seeseed
           url: https://www.seeseed.com/
@@ -812,9 +812,9 @@ content:
         - name: Collect UI
           description: Daily inspiration collected from daily ui archive and beyond.
           url: http://collectui.com/
-        - name: UI uigreat
-          description: APP界面截图参考
-          url: http://ui.uigreat.com/
+        - name: 冰枫论坛
+          description: 台湾地区的软件分享论坛
+          url: https://bingfeng.tw/forum.php
         - name: Android Niceties
           description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
           url: http://androidniceties.tumblr.com/
