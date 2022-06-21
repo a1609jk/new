@@ -190,10 +190,7 @@ content:
           url: https://www.lete.com/
         - name: 世龙批发
           description: 批发网站
-          url: https://www.4long.cn/   
-        - name: 逸源转运商城
-          description: 应该是已失效了
-          url: http://yya.colors8.com.cn/index.php                 
+          url: https://www.4long.cn/                
     - name: 商务后台
       sites: 
         - name: Qoo10后台
@@ -243,10 +240,7 @@ content:
           url: https://www.youshang.com/
         - name: 阿里邮箱企业版
           description: 在线会计处理平台
-          url: https://qiye.aliyun.com/alimail/auth/login
-        - name: 市场监督管理局
-          description: 湖北市场资讯
-          url: https://scjg.hubei.gov.cn/                   
+          url: https://qiye.aliyun.com/alimail/auth/login           
     - name: 自媒体后台
       sites: 
         - name: 头条号
@@ -343,6 +337,9 @@ content:
           url: https://analytics.google.com/analytics/academy/course/6
     - name: 其他工具
       sites: 
+        - name: 微信markdown编辑器
+          description: 微信公众号发布必备
+          url: https://doocs.github.io/md/
         - name: 翻译
           description: 比较准确的翻译利器
           url: https://www.deepl.com/translator
@@ -408,7 +405,10 @@ content:
           url: https://www.notion.so/zh-cn
         - name: vipc6
           description: 提供各种付费：培训视频、收费教程、破解软件等优质资源
-          url: https://www.vipc6.com/        
+          url: https://www.vipc6.com/  
+        - name: 市场监督管理局
+          description: 湖北市场资讯
+          url: https://scjg.hubei.gov.cn/
     - name: 社区资讯
       sites: 
         - name: 微博
@@ -821,6 +821,9 @@ content:
         - name: iconarchive
           description: icon链接超级好用
           url: https://iconarchive.com/
+        - name: flaticon
+          description: 还不错的图片素材
+          url: https://www.flaticon.com/                  
     - name: LOGO设计
       sites:
         - name: Iconsfeed
