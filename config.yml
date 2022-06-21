@@ -870,6 +870,12 @@ content:
         - name: 5百丁
           description: 中国领先的PPT模板共享平台
           url: http://ppt.500d.me/
+        - name: freepik
+          description: 图片素材网站免费
+          url: https://www.freepik.com/         
+        - name: istockphoto
+          description: 大图付费，小兔免费
+          url: https://www.istockphoto.com/jp         
     - name: UED团队
       sites:
         - name: UX Ren
