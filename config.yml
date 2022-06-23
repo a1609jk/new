@@ -234,7 +234,13 @@ content:
           url: https://sell.aliexpress.com/zh/__pc/newsellerlanding.htm
         - name: 微信小商店后台
           description: 微信自营小程序商店
-          url: https://mp.weixin.qq.com/          
+          url: https://mp.weixin.qq.com/ 
+        - name: salemonster代销后台
+          description: 利用亚马逊仓库进行代销
+          url: https://ssc.salemonster.jp/login
+        - name: shopee后台
+          description: 虾皮后台
+          url: https://help.shopeejapan.jp/hc/ja
         - name: 友商网后台
           description: 在线会计处理平台
           url: https://www.youshang.com/
