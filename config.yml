@@ -52,33 +52,22 @@ content:
         - name: 新媒体导航
           description: 自媒体必备
           url: https://www.kaolamedia.com/
-        - name: 自媒体导航
-          description: 自媒体必备
-          url: http://www.zimeiti135.com/
         - name: 龙轩导航
           description: 比较实用的导航网站
           url: http://ilxdh.com/
-        - name: 熊猫搜书导航
-          description: 搜书导航
-          url: https://ebook.blinkol.com/
         - name: 书享家导航
           description: 分享读书之美
           url: http://shuxiangjia.cn/
         - name: 设计师导航
           description: 设计相关内容汇总
           url: https://webstack.cc/cn/index.html
-        - name: 微信导航
-          description: 免费发布公众号、微信群、小程序
-          url: http://www.010810.com/
         - name: 搜索导航
           description: 各种搜索引擎导航
           url: http://sousuo.org.cn/
         - name: 一为导航
           description: 绚丽的综合导航
           url: https://nav.iowen.cn/
-        - name: 亚马逊导航
-          description: 专注亚马逊
-          url: http://topamazon.org/         
+       
     - name: 跨境商城
       sites: 
         - name: 亚马逊日本站
@@ -201,10 +190,10 @@ content:
           url: https://business.yahoo.co.jp/
         - name: Rakuten后台
           description: 乐天订单管理,需VPN
-          url: http://rakuten.co.jp/
+          url: https://rakuten.co.jp/
         - name: Amazon后台
           description: 亚马逊订单管理,需VPN,注意紫鸟登录
-          url: http://seller.amazon.co.jp/ 
+          url: https://sellercentral-japan.amazon.com/
         - name: Base后台
           description: base订单管理
           url: https://admin.thebase.in/users/login
@@ -217,6 +206,12 @@ content:
         - name: Osl海外仓后台
           description: 日本现地库存管理
           url: http://osl.kanenka.com/osl_web/
+        - name: au pay后台
+          description: 沃尔玛后台
+          url: https://manager.wowma.jp/wmshopclient/authclient/login
+        - name: 微信小商店后台
+          description: 微信自营小程序商店
+          url: https://mp.weixin.qq.com/ 
         - name: ezOrder后台
           description: 日本本土分销系统
           url: https://ezorder.jp/Account/Login
@@ -232,9 +227,6 @@ content:
         - name: 速卖通后台
           description: 阿里旗下海外战略版图
           url: https://sell.aliexpress.com/zh/__pc/newsellerlanding.htm
-        - name: 微信小商店后台
-          description: 微信自营小程序商店
-          url: https://mp.weixin.qq.com/ 
         - name: salemonster代销后台
           description: 利用亚马逊仓库进行代销
           url: https://ssc.salemonster.jp/login
@@ -243,10 +235,7 @@ content:
           url: https://help.shopeejapan.jp/hc/ja
         - name: 友商网后台
           description: 在线会计处理平台
-          url: https://www.youshang.com/
-        - name: 阿里邮箱企业版
-          description: 在线会计处理平台
-          url: https://qiye.aliyun.com/alimail/auth/login           
+          url: https://www.youshang.com/        
     - name: 自媒体后台
       sites: 
         - name: 头条号
@@ -343,6 +332,9 @@ content:
           url: https://analytics.google.com/analytics/academy/course/6
     - name: 其他工具
       sites: 
+        - name: 阿里邮箱企业版
+          description: 在线会计处理平台
+          url: https://qiye.aliyun.com/alimail/auth/login        
         - name: 微信markdown编辑器
           description: 微信公众号发布必备
           url: https://doocs.github.io/md/
